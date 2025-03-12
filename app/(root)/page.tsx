@@ -1,4 +1,4 @@
-import Hello from "./components/Hello";
+import Hello from "../components/Hello";
 
 export default function Home() {
   console.log('Who I am ? Server or Client');
